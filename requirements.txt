@@ -5,6 +5,6 @@ matplotlib==3.5.2
 keras==2.9.0
 tensorflow==2.9.1
 opencv-python-headless
-streamlit==1.2.0
+streamlit
 click==8
 sklearn==0.0
