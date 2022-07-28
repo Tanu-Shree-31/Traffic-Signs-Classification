@@ -1,7 +1,10 @@
-numpy==1.21.0
+numpy==1.23.1
+pandas==1.4.3
 Pillow==9.0.0
-keras==2.3.1
-tensorflow==2.7.0
+matplotlib==3.5.2
+keras==2.9.0
+tensorflow==2.9.1
 opencv-python-headless
-streamlit==1.4.0
+streamlit
 click==8
+sklearn==1.1.1
