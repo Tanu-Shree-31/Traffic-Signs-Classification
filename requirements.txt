@@ -7,4 +7,4 @@ tensorflow==2.9.1
 opencv-python-headless
 streamlit==1.2.0
 click==8
-sklearn==1.1.1
+sklearn==0.0
